@@ -1,0 +1,125 @@
+---
+title: Quick
+layout: post
+---
+| Sublime Text|
+| Comando | Ação |
+|-------|--------|
+| Ctrl + Click | Multicursor |
+| Ctrl + D | Seleção de Textos Iguais |
+| Ctrl + K | Pula um dos textos Iguais |
+| Ctrl + Shift + Enter | Cria Linha Acima do Cursor |
+| Ctrl + Shift + Setas |  Move linha inteira para cima/baixo e a outra |
+| Ctrl + L                |  Seleciona a linha e as próximas |
+| Ctrl + M                |  Início e fim do (parentesis)
+| Ctrl + Shift + M           |  Seleciona todo o conteúdo do (parentesis)
+| Ctrl+G or [Ctrl + F + :]                |  Go to line
+| Ctrl + K(2x) | (1x) Skip Ctrl+M --- (2x) Deleta do ponto até final da linha |
+| Ctrl + Backspace      |  Deleta do ponto até começo da linha
+| Ctrl + ] [            |  Identação
+| Ctrl + /                |  Comenta linha selecionada
+| Ctrl + SHIFT+V          |  Cola com identação correta
+| Ctrl + BACKSPACE        |  Deleta palavra inteira para trás
+| Ctrl + DEL              |  Deleta palavra inteira para frente
+| Ctrl + TAB              |  Navega nos arquivos das abas
+| Ctrl + P                |  Abre arquivos rapidamente (da pasta)
+| Shift + Alt + n           |  Duplas (ou mais) Divisões
+| **Console** |
+| stt ou subl | Abrir o Sublime do Terminal |
+| stt -a | Abre a pasta atual junto com as pastas abertas |
+| daily folders |   subl ~/code/pellibr  ~/gdrive_pelli.br/DAILY ~/gdrive_pelli.br/LE_WAGON/AULAS |
+| **Emmet** |
+| div.class | Cria o Html ou CSS com a respectiva classe |
+
+
+| Linux |
+|-------|--------|
+| **GUI - Interface Gráfica** |
+| CTRL + ALT + D        |  Show Desktop |
+| SUPR + ARROW          |  RESIZE WINDOWS |
+| SUPR + SHIFT + ARROW  |  VARIOS DESKTOPS |
+| **Terminal - Console** |
+| ls                    |  lista de arquivos e pastas |
+| ls -lh                |  ls organizado |
+| ls -a                 |  ls com arquivos ocultos |
+| ll                    |  outra lista de arquivos |
+| find                  | buscar |
+|  grep                 | buscar no arquivo |
+|  cat                   |  abrir conteudo dos arquivos direto no terminal |
+|  echo                  |  printar mensagens no terminal |
+|  echo >> "text" >> abc.txt |  salva mensagem do echo no arquivo (vai pra ultima linha) |
+|  xargs | atualizar |
+|  curl                  |  requisicao html? |
+|  curl \| jq             |  requisicao + render json terminal |
+|  rm                    |  deletar arquivos
+|  rmdir                 |  deletar pasta
+|  rmdir -rf             |  deletar pasta com arquivos (forcar delete)
+|  mkdir                 |  criar novo diretorio
+| mkdir -p              |  criar novos diretorios nestados
+|  touch                 |  criar novo arquivo
+|  \|                   |  concatenar acoes 1a Independente \| 2a Independente
+|  &                     |  concatenar acoes 1a BackGround & 2a Independente
+|  &                     |  no final do comando: libera o terminal para outros comandos
+|  &&                    |  concatenar acoes 1a BackGround && 2a Dependente da Primeira /n *ex.: mkdir pasta && cd pasta*
+
+
+  setxkbmap -model abnt -layout us -variant intl
+  x & y                 |  O operador & (Ampersand) é usado para colocar o comando anterior em background e, se houver um comando posterior, ele será executado independente do resultado do comando anterior: free & sync
+  y &                   |  Quando este operador é usado ao final de um comando em um terminal no Linux, significa que você quer executar aquele comando e já liberar o terminal para novos comandos, sem aguardar o resultado do último comando:
+  mkdir pasta && cd     |  O operador && (AND) é usado para que o próximo comando só seja executado se o comando anterior tiver sido executado com sucesso (exist status igual a 1):
+
+  * GIT *
+  gaa                   | GID ADD ALL .
+  gc -m ' comment '     | GIT COMMIT -M "COMENTARIO"
+  gp                    | GIT PUSH ORIGIN MASTER
+  git -b checkout       | CRIAR UM BRANCH LOCAL
+  git branch -d (ou -D forçado) | DELETAR BRANCH
+  git branch            | Listar Branches
+  git fetch --all
+    git reset --hard origin/master
+    git pull origin master
+                        | FORCAR A ATUALIZACAO ESPECIALMENTE
+                           QUANDO HOUVER ARQUIVOS CONFLITANTES
+  git pull              | ATUALIZAR O MASTER DO SERVIDOR P/ O SEU
+  git push -u origin atualiza-checkout  | JOGAR A BRANCH OFFLINE PARA ONLINE
+  git stash push --include-untracked
+  git stash drop
+      | para jogar no stash alteracoes da git nao usadas
+         especialmente quando temos conflitos
+         e queremos ignorar / deletar as informacoes locais
+
+  * SQL *
+  .folder;
+  CREATE TABLE
+  INSERT INTO cities ('name') VALUES ('Paris');
+  INSERT INTO cities ('name') VALUES ('Sao Paulo');
+  SELECT * from cities;
+  .headers on
+  .mode column          | MODO PARA FACILITAR A LEITURA
+
+  HTML e CSS
+  class =   .
+  id    =   #
+
+  RAILS
+  rails new     :: criar novo repositório de rails
+  rails s       :: abrir servidor
+  pe + tab      :: <%= %>
+  rails         ::
+  rails g migration
+  rails g controller
+  rails g model
+  rails console :: abrir o console no modo rails
+  rails console --sandbox
+  rails db:migrate
+  rails db:rollback
+  rails db:destroy migration
+  rails db:reset
+  resources :restaurants
+  spring é para resetar o rails ... as vezes acontece de ele ficar aberto
+  bundle install && rails db:drop && rails db:create && rails db:migrate && rails db:seed && spring stop && rails s
+  rails db:drop && rails db:create && rails db:migrate
+
+  VIM
+  https://www.keycdn.com/blog/vim-commandshttps://www.keycdn.com/blog/vim-commands
+  https://www.keycdn.com/blog/vim-commands
