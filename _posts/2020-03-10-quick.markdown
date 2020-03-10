@@ -39,7 +39,7 @@ layout: post
 | Super + Arrow | Resize Windows |
 | Super + Shift + Arrow | Vários Desktops |
 | **Terminal - Console** |
-| ls |  lista de arquivos e pastas |
+| ls | lista de arquivos e pastas |
 | ls -lh | ls organizado |
 | ls -a | ls com arquivos ocultos |
 | ll | outra lista de arquivos |
@@ -50,6 +50,7 @@ layout: post
 | echo >> "text" >> abc.txt |  salva mensagem do echo no arquivo (vai pra ultima linha) |
 | xargs | atualizar |
 | curl |  requisicao html? |
+
 | curl \| jq | requisicao + render json terminal |
 | rm | deletar arquivos |
 | rmdir |  deletar pasta |
