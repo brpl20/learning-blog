@@ -50,7 +50,6 @@ layout: post
 | echo >> "text" >> abc.txt |  salva mensagem do echo no arquivo (vai pra ultima linha) |
 | xargs | atualizar |
 | curl |  requisicao html? |
-
 | curl \| jq | requisicao + render json terminal |
 | rm | deletar arquivos |
 | rmdir |  deletar pasta |
@@ -63,31 +62,23 @@ layout: post
 | & | no final do comando: libera o terminal para outros comandos |
 | && | concatenar acoes 1a BackGround && 2a Dependente da Primeira *ex.: mkdir pasta && cd pasta* |
 
+| Linux |
+|-------|--------|
+|**Outros Comandos**|
+| setxkbmap -model abnt -layout us -variant intl|
 
-  setxkbmap -model abnt -layout us -variant intl
-  x & y                 |  O operador & (Ampersand) é usado para colocar o comando anterior em background e, se houver um comando posterior, ele será executado independente do resultado do comando anterior: free & sync
-  y &                   |  Quando este operador é usado ao final de um comando em um terminal no Linux, significa que você quer executar aquele comando e já liberar o terminal para novos comandos, sem aguardar o resultado do último comando:
-  mkdir pasta && cd     |  O operador && (AND) é usado para que o próximo comando só seja executado se o comando anterior tiver sido executado com sucesso (exist status igual a 1):
 
-  * GIT *
-  gaa                   | GID ADD ALL .
-  gc -m ' comment '     | GIT COMMIT -M "COMENTARIO"
-  gp                    | GIT PUSH ORIGIN MASTER
-  git -b checkout       | CRIAR UM BRANCH LOCAL
-  git branch -d (ou -D forçado) | DELETAR BRANCH
-  git branch            | Listar Branches
-  git fetch --all
-    git reset --hard origin/master
-    git pull origin master
-                        | FORCAR A ATUALIZACAO ESPECIALMENTE
-                           QUANDO HOUVER ARQUIVOS CONFLITANTES
-  git pull              | ATUALIZAR O MASTER DO SERVIDOR P/ O SEU
-  git push -u origin atualiza-checkout  | JOGAR A BRANCH OFFLINE PARA ONLINE
-  git stash push --include-untracked
-  git stash drop
-      | para jogar no stash alteracoes da git nao usadas
-         especialmente quando temos conflitos
-         e queremos ignorar / deletar as informacoes locais
+|GIT|
+|-------|--------|
+|gaa | Git add all ( ou ".") |
+|gc -m 'comment' | git commit -m "comentario"|
+|gp | git push origin master |
+|git -b checkout <branch-name> | criar um branch local |
+|git push -u origin <atualiza-checkout> | Branch Local to Remote |
+|git branch -d (ou -D forçado) | Deletar Branch |
+|git branch | Listar Branches |
+|1. git fetch --all 2. git reset --hard origin/master 3. git pull origin master | Arquivos em conflito
+|1. git stash push --include-untracked 2. git stash drop | para jogar no stash alteracoes da git nao usadas e especialmente quando temos conflitos e queremos ignorar / deletar as informacoes locais
 
   * SQL *
   .folder;
