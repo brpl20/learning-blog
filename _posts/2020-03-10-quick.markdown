@@ -9,21 +9,21 @@ layout: post
 | Ctrl + D | Seleção de Textos Iguais |
 | Ctrl + K | Pula um dos textos Iguais |
 | Ctrl + Shift + Enter | Cria Linha Acima do Cursor |
-| Ctrl + Shift + Setas |  Move linha inteira para cima/baixo e a outra |
-| Ctrl + L                |  Seleciona a linha e as próximas |
-| Ctrl + M                |  Início e fim do (parentesis)
-| Ctrl + Shift + M           |  Seleciona todo o conteúdo do (parentesis)
-| Ctrl+G or [Ctrl + F + :]                |  Go to line
+| Ctrl + Shift + Setas | Move linha inteira para cima/baixo e a outra |
+| Ctrl + L | Seleciona a linha e as próximas |
+| Ctrl + M | Início e fim do (parentesis)
+| Ctrl + Shift + M | Seleciona todo o conteúdo do (parentesis) |
+| Ctrl+G or [Ctrl + F + :] |  Go to line |
 | Ctrl + K(2x) | (1x) Skip Ctrl+M --- (2x) Deleta do ponto até final da linha |
-| Ctrl + Backspace      |  Deleta do ponto até começo da linha
-| Ctrl + ] [            |  Identação
-| Ctrl + /                |  Comenta linha selecionada
-| Ctrl + SHIFT+V          |  Cola com identação correta
-| Ctrl + BACKSPACE        |  Deleta palavra inteira para trás
-| Ctrl + DEL              |  Deleta palavra inteira para frente
-| Ctrl + TAB              |  Navega nos arquivos das abas
-| Ctrl + P                |  Abre arquivos rapidamente (da pasta)
-| Shift + Alt + n           |  Duplas (ou mais) Divisões
+| Ctrl + Backspace | Deleta do ponto até começo da linha |
+| Ctrl + ] [ | Identação |
+| Ctrl + / | Comenta linha selecionada |
+| Ctrl + SHIFT+V | Cola com identação correta |
+| Ctrl + BACKSPACE | Deleta palavra inteira para trás |
+| Ctrl + DEL | Deleta palavra inteira para frente |
+| Ctrl + TAB | Navega nos arquivos das abas |
+| Ctrl + P | Abre arquivos rapidamente (da pasta) |
+| Shift + Alt + n | Duplas (ou mais) Divisões |
 | **Console** |
 | stt ou subl | Abrir o Sublime do Terminal |
 | stt -a | Abre a pasta atual junto com as pastas abertas |
@@ -35,32 +35,32 @@ layout: post
 | Linux |
 |-------|--------|
 | **GUI - Interface Gráfica** |
-| CTRL + ALT + D        |  Show Desktop |
-| SUPR + ARROW          |  RESIZE WINDOWS |
-| SUPR + SHIFT + ARROW  |  VARIOS DESKTOPS |
+| Ctrl + Alt + D | Show Desktop |
+| Super + Arrow | Resize Windows |
+| Super + Shift + Arrow | Vários Desktops |
 | **Terminal - Console** |
-| ls                    |  lista de arquivos e pastas |
-| ls -lh                |  ls organizado |
-| ls -a                 |  ls com arquivos ocultos |
-| ll                    |  outra lista de arquivos |
-| find                  | buscar |
-|  grep                 | buscar no arquivo |
-|  cat                   |  abrir conteudo dos arquivos direto no terminal |
-|  echo                  |  printar mensagens no terminal |
-|  echo >> "text" >> abc.txt |  salva mensagem do echo no arquivo (vai pra ultima linha) |
-|  xargs | atualizar |
-|  curl                  |  requisicao html? |
-|  curl \| jq             |  requisicao + render json terminal |
-|  rm                    |  deletar arquivos
-|  rmdir                 |  deletar pasta
-|  rmdir -rf             |  deletar pasta com arquivos (forcar delete)
-|  mkdir                 |  criar novo diretorio
-| mkdir -p              |  criar novos diretorios nestados
-|  touch                 |  criar novo arquivo
-|  \|                   |  concatenar acoes 1a Independente \| 2a Independente
-|  &                     |  concatenar acoes 1a BackGround & 2a Independente
-|  &                     |  no final do comando: libera o terminal para outros comandos
-|  &&                    |  concatenar acoes 1a BackGround && 2a Dependente da Primeira /n *ex.: mkdir pasta && cd pasta*
+| ls |  lista de arquivos e pastas |
+| ls -lh | ls organizado |
+| ls -a | ls com arquivos ocultos |
+| ll | outra lista de arquivos |
+| find | buscar |
+| grep | buscar no arquivo |
+| cat | abrir conteudo dos arquivos direto no terminal |
+| echo | printar mensagens no terminal |
+| echo >> "text" >> abc.txt |  salva mensagem do echo no arquivo (vai pra ultima linha) |
+| xargs | atualizar |
+| curl |  requisicao html? |
+| curl \| jq | requisicao + render json terminal |
+| rm | deletar arquivos |
+| rmdir |  deletar pasta |
+| rmdir -rf |  deletar pasta com arquivos (forçar delete) |
+| mkdir |  criar novo diretorio |
+| mkdir -p |  criar novos diretorios nestados |
+| touch | criar novo arquivo |
+| \| | concatenar acoes 1a Independente \| 2a Independente |
+| & | concatenar acoes 1a BackGround & 2a Independente |
+| & | no final do comando: libera o terminal para outros comandos |
+| && | concatenar acoes 1a BackGround && 2a Dependente da Primeira *ex.: mkdir pasta && cd pasta* |
 
 
   setxkbmap -model abnt -layout us -variant intl
