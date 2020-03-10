@@ -73,11 +73,13 @@ layout: post
 |gaa | Git add all ( ou ".") |
 |gc -m 'comment' | git commit -m "comentario"|
 |gp | git push origin master |
-|git -b checkout <branch-name> | criar um branch local |
-|git push -u origin <atualiza-checkout> | Branch Local to Remote |
+|git -b checkout [branch-name] | criar um branch local |
+|git push -u origin [atualiza-checkout] | Branch Local to Remote |
 |git branch -d (ou -D forçado) | Deletar Branch |
 |git branch | Listar Branches |
-|1. git fetch --all 2. git reset --hard origin/master 3. git pull origin master | Arquivos em conflito
+|1. git fetch --all
+2. git reset --hard origin/master
+3. git pull origin master | Arquivos em conflito
 |1. git stash push --include-untracked 2. git stash drop | para jogar no stash alteracoes da git nao usadas e especialmente quando temos conflitos e queremos ignorar / deletar as informacoes locais
 
   * SQL *
