@@ -5,7 +5,13 @@ layout: post
 
 Lista:
 <a href="#ST">Sublime Text</a>
-
+<a href="#LNX">Linux</a>
+<a href="#GIT">Git</a>
+<a href="#ST">SQL</a>
+<a href="#SQL">SQL</a>
+<a href="#FRONT">HTML e CSS</a>
+<a href="#RAILS">Rails</a>
+<a href="#VIM">Vim</a>
 
 
 | <a id="ST">Sublime Text</a>|
@@ -38,7 +44,7 @@ Lista:
 | div.class | Cria o Html ou CSS com a respectiva classe |
 
 
-| Linux |
+| <a id="LNX">Linux</a> |
 |-------|--------|
 | **GUI - Interface Gráfica** |
 | Ctrl + Alt + D | Show Desktop |
@@ -66,15 +72,15 @@ Lista:
 | \| | concatenar acoes 1a Independente \| 2a Independente |
 | & | concatenar acoes 1a BackGround & 2a Independente |
 | & | no final do comando: libera o terminal para outros comandos |
-| && | concatenar acoes 1a BackGround && 2a Dependente da Primeira *ex.: mkdir pasta && cd pasta* |
+| && | concatenar acoes 1a BackGround && 2a Dependente da Primeira <br>*ex.: mkdir pasta && cd pasta*</br> |
 
 | Linux |
 |-------|--------|
 |**Outros Comandos**|
-| setxkbmap -model abnt -layout us -variant intl|
+| setxkbmap -model abnt -layout us -variant intl| arrumar acentos teclado us:int |
 
 
-|GIT|
+|<a id="GIT">GIT</a>|
 |-------|--------|
 |gaa | Git add all ( ou ".") |
 |gc -m 'comment' | git commit -m "comentario"|
@@ -83,41 +89,45 @@ Lista:
 |git push -u origin [atualiza-checkout] | Branch Local to Remote |
 |git branch -d (ou -D forçado) | Deletar Branch |
 |git branch | Listar Branches |
-|1. git fetch --all 2. git reset --hard origin/master 3. git pull origin master | Arquivos em conflito
-|1. git stash push --include-untracked 2. git stash drop | para jogar no stash alteracoes da git nao usadas e especialmente quando temos conflitos e queremos ignorar / deletar as informacoes locais
+|1. git fetch \-\-all 2. git reset \-\-hard origin/master 3. git pull origin master | Arquivos em conflito
+|1. git stash push \-\-include\-untracked 2. git stash drop | para jogar no stash alteracoes da git nao usadas e especialmente quando temos conflitos e queremos ignorar / deletar as informacoes locais
 
-  * SQL *
-  .folder;
-  CREATE TABLE
-  INSERT INTO cities ('name') VALUES ('Paris');
-  INSERT INTO cities ('name') VALUES ('Sao Paulo');
-  SELECT * from cities;
-  .headers on
-  .mode column          | MODO PARA FACILITAR A LEITURA
+|<a id="SQL">SQL</a>|
+|-------|--------|
+|.folder;|mostrar folder|
+|CREATE TABLE|
+|INSERT INTO cities ('name') VALUES ('Paris');|
+|INSERT INTO cities ('name') VALUES ('Sao Paulo');|
+|SELECT * from cities;|
+|.headers on|
+|.mode column          | MODO PARA FACILITAR A LEITURA|
 
-  HTML e CSS
-  class =   .
-  id    =   #
+|<a id="FRONT">HTML e CSS</a> |
+|-------|--------|
+| class | . |
+| id | # |
 
-  RAILS
-  rails new     :: criar novo repositório de rails
-  rails s       :: abrir servidor
-  pe + tab      :: <%= %>
-  rails         ::
-  rails g migration
-  rails g controller
-  rails g model
-  rails console :: abrir o console no modo rails
-  rails console --sandbox
-  rails db:migrate
-  rails db:rollback
-  rails db:destroy migration
-  rails db:reset
-  resources :restaurants
-  spring é para resetar o rails ... as vezes acontece de ele ficar aberto
-  bundle install && rails db:drop && rails db:create && rails db:migrate && rails db:seed && spring stop && rails s
-  rails db:drop && rails db:create && rails db:migrate
+|<a id="RAILS">RAILS</a>|
+|-------|--------|
+| rails new | criar novo repositório de rails |
+| rails server ou s | local server |
+| rails console ou c | rails console |
+| pe + tab | <%= %> |
+| rails g migration |
+| rails g controller |
+| rails g model |
+| rails console | abrir o console no modo rails
+| rails console --sandbox
+| rails db:migrate
+| rails db:rollback
+| rails db:destroy migration
+| rails db:reset
+| resources :restaurants
+| spring é para resetar o rails ... as vezes acontece de |ele ficar aberto
+|  bundle install && rails db:drop && rails db:create && |rails db:migrate && rails db:seed && spring stop && |rails s
+ | rails db:drop && rails db:create && rails db:migrate
 
-  VIM
-  https://www.keycdn.com/blog/vim-commandshttps://www.keycdn.com/blog/vim-commands
-  https://www.keycdn.com/blog/vim-commands
+|<a id="VIM">VIM</a>|
+|-----|
+|https://www.keycdn.com/blog/vim-commandshttps://www.keycdn.com/blog/vim-commands|
+|https://www.keycdn.com/blog/vim-commands|
