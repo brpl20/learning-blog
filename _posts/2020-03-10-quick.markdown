@@ -13,6 +13,10 @@ Lista:
 <a href="#RAILS">Rails</a>
 <a href="#VIM">Vim</a>
 
+Fontawesome:
+<i class="fas fa-camera"></i>
+https://github.com/drewish/jekyll-font-awesome-sass
+
 
 | <a id="ST">Sublime Text</a>|
 | Comando | Ação |
@@ -78,7 +82,7 @@ Lista:
 |-------|--------|
 |**Outros Comandos**|
 | setxkbmap -model abnt -layout us -variant intl| arrumar acentos teclado us:int |
-
+| create bash script | https://www.taniarascia.com/how-to-create-and-use-bash-scripts |
 
 |<a id="GIT">GIT</a>|
 |-------|--------|
