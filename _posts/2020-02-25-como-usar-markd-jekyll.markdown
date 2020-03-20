@@ -1,11 +1,17 @@
 ---
 layout: post
 title: "Como usar markdown no Jekyll"
-tags: [ruby, jekyll, markdown]
+tags: [ruby, jekyll, markdown,]
 ---
 
 ---
-**Manual Básico de Markdown para usar no jekyll**
+##**Manual Básico de Markdown para usar no jekyll**##
+
+
+*H1 = Reservado a títulos
+*H2 = ##
+*H3 = ###
+
 
 **Negrito**: ** Asteriscos ** Duplo
 
@@ -35,6 +41,9 @@ Code usar ~~~ para abrir e ~~~ para fechar, exemplo:
 <h1> Html</h1>
 let name = "Java Script"
 ~~~
+
+Como Colocar Links:
+
 
 Resources:
 -------------

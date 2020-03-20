@@ -1,0 +1,19 @@
+---
+title: todo
+layout: post
+tags: [todo]
+---
+
+1. Porque as ### não estão funcionando?
+
+2. Como continuar uma lista numerada depois de inserir um código?
+
+3. Explicar como fazer a lista numerada mais bonita com o parágrafo (primeiro post).
+
+4. Porque os [links] não estão funcionando?
+
+5. Padronizar os padrões de postagem.
+
+6. Arrumar o font awesome para o Quick.
+
+7. Emojis

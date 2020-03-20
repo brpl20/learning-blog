@@ -46,7 +46,8 @@ https://github.com/drewish/jekyll-font-awesome-sass
 | daily folders |   subl ~/code/pellibr  ~/gdrive_pelli.br/DAILY ~/gdrive_pelli.br/LE_WAGON/AULAS |
 | **Emmet** |
 | div.class | Cria o Html ou CSS com a respectiva classe |
-
+| **Outros** |
+| https://kitt.lewagon.com/knowledge/cheatsheets/sublime_shortcuts |
 
 | <a id="LNX">Linux</a> |
 |-------|--------|
