@@ -3,24 +3,19 @@ title: Quick
 layout: post
 ---
 
-Lista:
 <a href="#ST">Sublime Text</a>
+
 <a href="#LNX">Linux</a>
+
 <a href="#GIT">Git</a>
-<a href="#ST">SQL</a>
+
 <a href="#SQL">SQL</a>
+
 <a href="#FRONT">HTML e CSS</a>
+
 <a href="#RAILS">Rails</a>
+
 <a href="#VIM">Vim</a>
-
-<i class="fab fa-github"></i>
-
-
-
-Fontawesome:
-<i class="fas fa-camera"></i>
-https://github.com/drewish/jekyll-font-awesome-sass
-
 
 | <a id="ST">Sublime Text</a>|
 | Comando | Ação |
@@ -50,15 +45,17 @@ https://github.com/drewish/jekyll-font-awesome-sass
 | daily folders |   subl ~/code/pellibr  ~/gdrive_pelli.br/DAILY ~/gdrive_pelli.br/LE_WAGON/AULAS |
 | **Emmet** |
 | div.class | Cria o Html ou CSS com a respectiva classe |
-| **Outros** |
-| https://kitt.lewagon.com/knowledge/cheatsheets/sublime_shortcuts |
+
+**Resources**
+[lewagon](https://kitt.lewagon.com/knowledge/cheatsheets/sublime_shortcuts)
 
 | <a id="LNX">Linux</a> |
 |-------|--------|
 | **GUI - Interface Gráfica** |
 | Ctrl + Alt + D | Show Desktop |
-| Super + Arrow | Resize Windows |
-| Super + Shift + Arrow | Vários Desktops |
+| Super + Arrows | Resize Windows |
+| Super + Shift + PgDown ou Up | Vários Desktops |
+| Super | Busca |
 | **Terminal - Console** |
 | ls | lista de arquivos e pastas |
 | ls -lh | ls organizado |
@@ -138,5 +135,5 @@ https://github.com/drewish/jekyll-font-awesome-sass
 
 |<a id="VIM">VIM</a>|
 |-----|
-|https://www.keycdn.com/blog/vim-commandshttps://www.keycdn.com/blog/vim-commands|
-|https://www.keycdn.com/blog/vim-commands|
+|[link](https://www.keycdn.com/blog/vim-commandshttps://www.keycdn.com/blog/vim-commands)|
+|[link](https://www.keycdn.com/blog/vim-commands)|

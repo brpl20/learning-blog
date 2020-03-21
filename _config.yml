@@ -31,14 +31,7 @@ github_username:  pellibr
 theme: minima
 plugins:
   - jekyll-feed
-
-# Gems
-gems:
-  - jekyll-font-awesome-sass
-
-# Gems Configs
-font-awesome:
-  assets: true
+  - jemoji
 
 # Exclude from processing.
 # The following items will not be processed, by default.

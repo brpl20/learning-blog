@@ -22,7 +22,9 @@ __Itálico__: _ Underline _ **ou** * Asterisco * Simples
 
 _Sublinhado_: ?
 
-Inline Code: `let = 1` com crase `
+Inline Code: `let = 1` com crase \`
+
+Sair do Markdown: Barra Invertida
 
 Code Block: ~~~ abrir e ~~~ fechar ou três crases:
 

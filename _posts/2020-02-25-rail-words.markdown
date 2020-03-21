@@ -5,13 +5,6 @@ date:   2020-02-26 15:40 -0300
 tags: [git, collaboration]
 ---
 
-https://gist.github.com/alexpchin/f5d2be2ef3735889d315
+A fazer ainda, por enquanto consulte:
 
-<
-
-...
-ga
-
-##19
-
-[sdf][adsf[]]
+[gist](https://gist.github.com/alexpchin/f5d2be2ef3735889d315)

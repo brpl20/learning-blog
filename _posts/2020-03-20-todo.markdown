@@ -4,19 +4,7 @@ layout: post
 tags: [todo]
 ---
 
-1. Porque as ### não estão funcionando?
-
-2. Como continuar uma lista numerada depois de inserir um código?
-
-3. Explicar como fazer a lista numerada mais bonita com o parágrafo (primeiro post).
-
-4. Porque os [links] não estão funcionando?
-
-5. Padronizar os padrões de postagem.
-
 6. Arrumar o font awesome para o Quick.
-
-7. Emojis
 
 8. Como usar o alt+tab no ubuntu sem juntar telas repitidas
 http://ubuntuhandbook.org/index.php/2019/02/alt-tab-display-separate-windows-ubuntu-18-04/
@@ -29,8 +17,4 @@ http://ubuntuhandbook.org/index.php/2019/02/alt-tab-display-separate-windows-ubu
 
 12. Report a BUG in each line
 
-13. Add Images
-
 14. Criar botões de teclado CSS
-
-15.
