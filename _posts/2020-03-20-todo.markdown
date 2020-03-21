@@ -17,3 +17,20 @@ tags: [todo]
 6. Arrumar o font awesome para o Quick.
 
 7. Emojis
+
+8. Como usar o alt+tab no ubuntu sem juntar telas repitidas
+http://ubuntuhandbook.org/index.php/2019/02/alt-tab-display-separate-windows-ubuntu-18-04/
+
+9. Como adicionar favorite files no Sublime Text
+
+10. Padronização de nomes do DB
+
+11. Report a BUG
+
+12. Report a BUG in each line
+
+13. Add Images
+
+14. Criar botões de teclado CSS
+
+15.

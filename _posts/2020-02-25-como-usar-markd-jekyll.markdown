@@ -5,13 +5,16 @@ tags: [ruby, jekyll, markdown,]
 ---
 
 ---
-##**Manual Básico de Markdown para usar no jekyll**##
+## Manual Básico de Markdown para usar no jekyll
 
+# **Headers**
+H1 = #
+# Header 1
 
-*H1 = Reservado a títulos
-*H2 = ##
-*H3 = ###
+H2 = ##
+## Header 2
 
+# **Edição**
 
 **Negrito**: ** Asteriscos ** Duplo
 
@@ -19,53 +22,56 @@ __Itálico__: _ Underline _ **ou** * Asterisco * Simples
 
 _Sublinhado_: ?
 
-Numbering:
+Inline Code: `let = 1` com crase `
+
+Code Block: ~~~ abrir e ~~~ fechar ou três crases:
+
+~~~
+def fun
+  @var = var.all
+end
+~~~
+
+Citação: > Citação
+> Bloco de Citação
+
+# **Numbering e Listas**
+
+**Numbering**
 1. Number 1
 2. Number 2
 3. Number 3
 
-Numbering Misto:
-1. Linha 1
-2. Linha 2
-8. Linha 9
-31. Linha 013
-1301301. Linha 0101
-3901. _Não importa quantas linhas você tenha ou o número que você coloque, a ordem vai seguir o número de linhas_
+_Não importa quantas linhas você tenha ou o número que você coloque, a ordem vai seguir o número de linhas_
 
-Títulos
-usar - e =
+**Bullet List** Com Asterisco ou -
+* Bullet 1
+* Bullet 2
 
-Code usar ~~~ para abrir e ~~~ para fechar, exemplo:
-~~~
-<% embebed ruby %>
-<h1> Html</h1>
-let name = "Java Script"
-~~~
-
-Como Colocar Links:
+# **Outros**
+Régua ou linha hr : - - - e ===
 
 
-Resources:
--------------
-[jekyll][jekyll-main]
+# **Links**
+`[Link](http://a.com)`
 
-[markdown syntaxe basica][markdown-guide-basic-syntax]
+# **Imagens**
+`![Image](http://url/a.png)`
 
-[markdown guide][https://www.markdownguide.org/]
+# **Escolha de Cores de Markdown**
+Para melhor escolha de cores do markdown no Sublime Text use o [MonokaiC](https://packagecontrol.io/packages/MonokaiC)
 
-[markdown fireball][https://daringfireball.net/projects/markdown/basics]
+# **Resources**
 
-Dúvidas:
--------------
-* Como fazer um looping para gerar os números automaticamente quando criarmos uma lista de número (para não ficar atualizando a quantidade de itens, apenas ir adicionando uma linha após a outra);
-* Como fazer o sublinhado;
+[jekyll](https://jekyllrb.com)
 
+[markdown reference](https://commonmark.org/help/)
 
+[markdown tutorial de 10 minutos](https://commonmark.org/help/tutorial/)
 
+[markdown syntaxe basica](markdown-guide-basic-syntax)
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+[markdown guide](https://www.markdownguide.org/)
 
-[jekyll-main]: https://jekyllrb.com
-[markdown-guide-basic-syntax]: https://www.markdownguide.org/basic-syntax/
-[markdown-guide]: https://www.markdownguide.org/
-[markdown-daring]: https://daringfireball.net/projects/markdown/basics
+[markdown fireball](https://daringfireball.net/projects/markdown/basics)
+

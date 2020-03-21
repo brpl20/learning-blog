@@ -40,5 +40,7 @@ git commit -m "$desc"               # commit with message
 git push origin master              # push to origin
 {% endhighlight %}
 
+5. Não se esqueça de adicionar o nome do arquivo no gitignore caso esteja usando a pasta raíz do repostiório.
+
 ###Resources:###
 https://www.taniarascia.com/how-to-create-and-use-bash-scripts/

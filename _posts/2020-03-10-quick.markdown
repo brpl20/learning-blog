@@ -13,6 +13,10 @@ Lista:
 <a href="#RAILS">Rails</a>
 <a href="#VIM">Vim</a>
 
+<i class="fab fa-github"></i>
+
+
+
 Fontawesome:
 <i class="fas fa-camera"></i>
 https://github.com/drewish/jekyll-font-awesome-sass
