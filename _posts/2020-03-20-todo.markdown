@@ -18,3 +18,5 @@ http://ubuntuhandbook.org/index.php/2019/02/alt-tab-display-separate-windows-ubu
 12. Report a BUG in each line
 
 14. Criar botões de teclado CSS
+
+15. Estudar .ERB vs HAML
