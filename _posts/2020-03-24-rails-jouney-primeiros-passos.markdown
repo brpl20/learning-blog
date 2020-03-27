@@ -55,9 +55,10 @@ Algo que tenho aprendido é conquistar pequenos objetivos, um cada vez, enfrenta
 * Manter um controle de coisas a serem feitas
 * Criar um arquivo mind
 * Ter paciência, resolver um problema por vez
+* Focar nas coisas que farão diferença para o seu blog, se você tem curiosidade de aprender mais coisas adicione no seu "ToDo" e veja quando não estiver trabalhando no seu projeto : *FOCO*
 * Pesquisar e aprender sozinho, mas não ter vergonha de pedir ajuda quando está travado
 
-## Referências
+## Referências Aleatórias (sobre programação)
 [jlongster](https://jlongster.com/How-I-Became-Better-Programmer)
 1. Find people who inspire you, but don't idolize them.
 2. Don't devalue your work.
