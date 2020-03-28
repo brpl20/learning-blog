@@ -20,3 +20,12 @@ http://ubuntuhandbook.org/index.php/2019/02/alt-tab-display-separate-windows-ubu
 14. Criar botões de teclado CSS
 
 15. Estudar .ERB vs HAML
+
+16. Estudar [subdomínio dinâmico](http://railscasts.com/episodes/123-subdomains-revised?view=asciicast)
+
+17. Estudar como criar wordpress plugins
+
+18. Estudar rails paths e manipulação de arquivos
+
+19. Estudar cloudnary para upload e hospedagem de .docx e .pdf
+
