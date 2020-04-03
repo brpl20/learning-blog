@@ -12,3 +12,6 @@ _localhost padrão_
 
 _local host testando a create/new por exemplo_
 `rails s & sleep 4 && firefox http://localhost:3000/clinets/new`
+
+_firefox com private windows_
+`rails s & sleep 4 && firefox -private-window http://localhost:3000/clinets/new`
