@@ -10,6 +10,7 @@ Para sustituir o Rails C pelo Pry no Rails a melhor forma é instalar a gem do P
 <span id="key"> TAB </span>>
 <span id="keyb"> TAB </span>>
 <span id="keyc"> TAB </span>>
+ssss
 
 num funciona!!
 <div class="crazy"> teste divvv </div>
