@@ -23,8 +23,22 @@ https://stackoverflow.com/questions/1751301/regex-match-entire-words-only
 {% endhighlight %}
 
 # Resultado no Sublime:
-Imagem...
+**Antes:**
 
+
+![screenshot_antes](https://res.cloudinary.com/lztec/image/upload/v1586463469/regex2_toyugj.png)
+
+
+**Seleção Realizada:**
+![screnshot_seleção](https://res.cloudinary.com/lztec/image/upload/v1586463469/regex_fwq6zh.png)
+
+
+**Depois:**
+
+![screenshot_depois](https://res.cloudinary.com/lztec/image/upload/v1586463469/regex1_eje7gj.png)
+
+
+_Obrigado pela hospedagem [Cloudinary](https://cloudinary.com/)_
 
 # Conclusão
 Demorei bem mais tempo pesquisando e criando este post do que simplesmente fazendo manual, mas o que importa é o aprendizado, espero utilizar esta técnica muitas vezes e conseguir economizar tempo. Provavelmente existe uma forma mais fácil de fazer isso, quando eu escobrir eu vou adicionar aqui.

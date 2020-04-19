@@ -4,7 +4,6 @@ layout: post
 tags: [todo]
 ---
 
-6. Arrumar o font awesome para o Quick.
 
 8. Como usar o alt+tab no ubuntu sem juntar telas repitidas
 http://ubuntuhandbook.org/index.php/2019/02/alt-tab-display-separate-windows-ubuntu-18-04/
@@ -19,13 +18,14 @@ http://ubuntuhandbook.org/index.php/2019/02/alt-tab-display-separate-windows-ubu
 
 14. Criar botões de teclado CSS
 
-15. Estudar .ERB vs HAML
+15. Estudar .ERB vs HAML : _No momento abandonado, apenas uma coisa mais para aprender, dominar os comandos do Rails primeiro_.
 
 16. Estudar [subdomínio dinâmico](http://railscasts.com/episodes/123-subdomains-revised?view=asciicast)
 
-17. Estudar como criar wordpress plugins
+17. Estudar como criar wordpress plugins : )Beeem pra frente._
 
 18. Estudar rails paths e manipulação de arquivos
 
-19. Estudar cloudnary para upload e hospedagem de .docx e .pdf
+19. Estudar cloudnary para upload e hospedagem de .docx e .pdf: ProcStudio
 
+20. Adicionar Search Engine e descobrir como adicionar js no jekyll 

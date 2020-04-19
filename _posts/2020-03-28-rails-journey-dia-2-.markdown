@@ -1,5 +1,5 @@
 ---
-title: \[Rails Journey] Dia 2
+title: Rails Journey Dia 2
 layout: post
 tags: [rails]
 ---

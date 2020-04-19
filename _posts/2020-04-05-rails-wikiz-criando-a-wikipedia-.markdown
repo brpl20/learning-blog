@@ -1,5 +1,5 @@
 ---
-title: /[Rails Wikiz] Criando a Wikipedia
+title: Rails Wikiz - Criando a Wikipedia
 layout: post
 tags: [rails, wikiz]
 ---

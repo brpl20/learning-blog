@@ -11,8 +11,13 @@ Mas achei uma solução que tem ajudado bastante e acho que não irei precisar d
 
 Ainda não consegui adicionar favorite files ou favorite folders, como se eles estivessem pressos na SideBar, mas achei
 
-A package que eu encontrei foi de All Autocomplete, ele segue a meama ideia do terminal e com o [tab] completa o caminho de acordo com o que tiver dentro das pastas exemplo `~/code/learning-blog` preenche apenas /code/l+tab, agilizando o processo de busca.
+A package que eu encontrei foi de All Autocomplete, ele segue a meama ideia do terminal e com o [tab] completa o caminho de acordo com o que tiver dentro das pastas exemplo `~/code/learning-blog` preenche apenas `/code/l+tab`, agilizando o processo de busca.
 
-Depois a package ainda salva seu histórico de pastas e arquivos abertos, assim basta acessar com [Ctrl] + [O] e usar as setas para buscar os acessso mais recentes.
+Depois a package ainda salva seu histórico de pastas e arquivos abertos, assim basta acessar com `[Ctrl] + [O]` e usar as setas para buscar os acessso mais recentes.
 
-Não se esqueça, para instalar as packages no sublime, use o [Ctrl+Shift+P]
+Não se esqueça, para instalar as packages no sublime, use o `[Ctrl+Shift+P]` 
+
+----
+Update 19/04/2020
+
+Estava reinstalando o Linux em outra máquina e por alguma razão não estou mais achando o All Autocomplete no package manager, mas seu repositório continua online [aqui](https://packagecontrol.io/packages/All%20Autocomplete)

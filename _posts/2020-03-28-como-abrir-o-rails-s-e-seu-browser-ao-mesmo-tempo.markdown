@@ -15,3 +15,8 @@ _local host testando a create/new por exemplo_
 
 _firefox com private windows_
 `rails s & sleep 4 && firefox -private-window http://localhost:3000/clinets/new`
+
+--- 
+# Update 19/04/2020
+
+Esse método parece não ser muito bom uma vez que o servidor parece continuar mesmo depois do `ctrl+c` e causa conflito de continuar aberto mesmo depois de tentar fechar, obrigando a matar o servidor 'forçadamente'. 

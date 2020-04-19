@@ -1,5 +1,5 @@
 ---
-title: \[Rails Journey] Dia 3 - Novos Objetivos e Ideias
+title: Rails Journey - Dia 3 - Novos Objetivos e Ideias
 layout: post
 tags: [rails, objetivos, ideias, organizacao]
 ---

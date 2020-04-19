@@ -1,0 +1,7 @@
+---
+title: Sublime Text - O Post Permanente
+layout: post
+tags: [sublime text, produtividade]
+---
+| `CTRL+Setas` | Acho que esse foi o melhor aprendizado de todos, inclusive para outros apps como no Office. Navegar e também selecionar as palavras com `CTRL + Shift + Setas` é um dos maiores atalhos e poupa tempos que eu já aprendi. 
+| `CTRL+Shift+L` | Essa função é muito boa para selecionar uma série de linhas começando pelo final, se você quiser jogar para o começo, basta usar a tecla `home`. 

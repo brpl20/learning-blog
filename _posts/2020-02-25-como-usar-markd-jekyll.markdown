@@ -63,6 +63,10 @@ Régua ou linha hr : - - - e ===
 # **Escolha de Cores de Markdown**
 Para melhor escolha de cores do markdown no Sublime Text use o [MonokaiC](https://packagecontrol.io/packages/MonokaiC)
 
+![antes](https://res.cloudinary.com/lztec/image/upload/v1586463469/markdown_chrian.png)
+
+![depois](https://res.cloudinary.com/lztec/image/upload/v1586463469/markdown2_gmszud.png)
+
 # **Resources**
 
 [jekyll](https://jekyllrb.com)

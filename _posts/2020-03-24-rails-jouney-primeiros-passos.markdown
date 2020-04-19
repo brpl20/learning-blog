@@ -1,5 +1,5 @@
 ---
-title: \[Rails Journey] Primeiros Passos
+title: Rails Journey - Primeiros Passos
 layout: post
 tags: [rails, LOG]
 ---
