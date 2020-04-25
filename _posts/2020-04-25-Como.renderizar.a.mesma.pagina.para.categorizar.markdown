@@ -1,0 +1,23 @@
+---
+title: Rails - Como renderizar a mesma pagina para categorizar
+layout: post
+tags: [rails, views]
+---
+Nos blogs, wikis e páginas em geral, é muito comum a divisão dos tópicos por assuntos, temas, tags... para não ficar recriando views e trabalhando com rotas excessivas, é melhor renderizar o próprio index incluindo um parâmetro (enviar o parâmetro através de requisição POST no link_to) para esta renderização no view e alterando o controller para criar a lógica de seleção do que vai ser renderizado, confira: 
+
+
+# Controller 
+```
+def index
+  if params[:category].blank?
+    @articles = Article.all.order("created_at DESC")
+  else
+    @category_id = Category.find_by(name: params[:category]).id
+    @articles = Article.where(category_id: @category_id).order("created_at DESC")
+  end
+end
+```
+
+# View 
+`<%= link_to "#{article.category.name}", root_path(:category => "#{article.category.name}"), :method => :post %>`
+

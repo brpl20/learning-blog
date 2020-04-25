@@ -3,25 +3,34 @@ title: O que aprender e o que não aprender
 layout: post
 tags: [programação, foco, estudos, produtividade]
 ---
-Quando nos deparamos com o mundo da programação, nos deparamos com um universo novo que parece permear a comunidade de programadores. As pessoas deste meio, parecem ter uma discussão eterna de como fazer as coisas da melhor forma possível. Isso é incrível e uma discussão que eu acredito ser muito saudável, mas só até um ponto. Porque quem está começando neste mundo, fica completamente perdido sobre a forma "correta" de fazer a coisa certa.
+Quando entramos no mundo da programação, nos deparamos com um universo novo que parece permear a comunidade de programadores. As pessoas deste meio, parecem ter uma discussão eterna de como fazer as coisas da melhor forma possível. Não existe nada igual. Em alguns casos extremos as discussões e defesas calorosas parecem vir de uma seita religiosa. 
+
+Mas de forma geral é um ambiente incrível e uma discussão que leva ao crescimento e a inovações no meio deste ambiente caótico. Mas só até um ponto. Quem está começando neste mundo, fica completamente perdido sobre a forma "correta" de fazer a coisa certa.
 
 Algumas discussões que tenho me deparado: Editor de Textos, qual o melhor? Usar um editor básico ou usar um super editor hardcore root mega blaster como o VIM ou o Emacs? Utilizar ERB vs HAML no Rails? Ou finalmente, qual melhor framework de Javascript? Coffee Script ou Javascript básico?
 
 
-Segue um guia que eu fiz então para tomar essas decisões, vamos partir dos seguintes paradigmas:
+Segue um guia que eu fiz então para tomar essas decisões, vou partir dos seguintes paradigmas:
 
-# Não é possível aprender tudo que nós temos vontade de aprender;
+# Não é possível aprender tudo que eu tenho vontade de aprender;
 
-# O Programador iniciante deve focar em ferramentas mais simples;
+# O Programador iniciante deve focar em ferramentas mais simples e de base;
 
-# A curva de aprendizado tem um preço;
+# Só se deve aprender um modo mais fácil de fazer algo quando você tem uma boa base de conhecimento na ferramenta principal. Por exemplo: _Não é bom aprender a usar coffee script se você não sabe o básico de javascript._
 
-# Aprender isso será importante para mim neste momento?;
+# A curva de aprendizado tem um preço e a curva de desaprendizado também;
 
-# Eu já domino as ferramentas que eu tenho a disposição;
+Perguntas e respostas: 
 
-# Criar pasta mind - pelo menos para pequenos projetos
+# Questionar se aprender determinada ferramenta será importante para mim neste momento?
 
-# Deixar apenas 2 projetos por vez
+# Eu já domino as ferramentas que eu tenho a disposição?
 
-# Anotar tudo que aprende (como este blog) ou pelo menos muita coisa
+Como Focar: 
+
+# Focar em apenas duas coisas por vez, ou seja, dois projetos maiores e não dispersar até que tenha algo concreto e funcional nestes dois projetos;
+
+# Anotar tudo que aprende (como este blog) ou pelo menos muita coisa;
+
+# Não é possível fazer tudo que eu tenho vontade de fazer;
+
