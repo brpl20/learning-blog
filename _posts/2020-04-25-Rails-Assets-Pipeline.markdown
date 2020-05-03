@@ -12,3 +12,6 @@ app/assets: _Para assets criados pelo  Rails_
 lib/assets: _Para assets criados._
 
 vendor/assets: _Para assets de terceiros._
+
+## Resources: 
+[Ruby Official Assets Pipeline](https://guides.rubyonrails.org/asset_pipeline.html)
