@@ -30,7 +30,7 @@ A maior diferença agora é para criar os SCSS partials, iniciando com _ . Por e
 5. Adicione o bootstrap com yarn 
 `yarn add bootstrap`
 
-6. Adicione uma linha no import do application.scss
+6. Adicione uma linha no import do application.scss 
 `@import "bootstrap/scss/bootstrap";`
 
 7. Adicione responsividade ao bootstrap conforme os navegadores 
@@ -50,10 +50,14 @@ A maior diferença agora é para criar os SCSS partials, iniciando com _ . Por e
 yarn add popper.js jquery
 ```
 
-10. Configure o environment do webpack:
+10. As vezes preciso instalar o babel também com o comando `babel-cli` *não* use somente `babel` senão vai pegar uma versão antiga. 
+
+11. Configure o environment do webpack:
 ```
+// config/webpack/environment.js
 const { environment } = require('@rails/webpacker')
-\\ Dependencies
+
+// Bootstrap 4 has a dependency over jQuery & Popper.js:
 const webpack = require('webpack')
 environment.plugins.prepend('Provide',
   new webpack.ProvidePlugin({
@@ -62,10 +66,11 @@ environment.plugins.prepend('Provide',
     Popper: ['popper.js', 'default']
   })
 )
+
 module.exports = environment
 ```
 
-11. Finalmente, adicione uma linha no : app/javascript/packs/application.js: 
+12. Finalmente, adicione uma linha no : `app/javascript/packs/application.js` --- Note que este arquivo será diferente se tiver ocorrido tudo certo do que o arquivo original que tinha várias linhas e barras //=. 
 ```
 import 'bootstrap';
  ```

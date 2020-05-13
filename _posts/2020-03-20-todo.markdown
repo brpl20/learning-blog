@@ -4,28 +4,14 @@ layout: post
 tags: [todo]
 ---
 
+## TODO DO JEKYLL 
 
-8. Como usar o alt+tab no ubuntu sem juntar telas repitidas
-http://ubuntuhandbook.org/index.php/2019/02/alt-tab-display-separate-windows-ubuntu-18-04/
+1. Report a BUG
 
-9. Como adicionar favorite files no Sublime Text
+2. Report a BUG in each line
 
-10. Padronização de nomes do DB
+3. Criar botões de teclado CSS
 
-11. Report a BUG
+4. Estudar [subdomínio dinâmico](http://railscasts.com/episodes/123-subdomains-revised?view=asciicast)
 
-12. Report a BUG in each line
-
-14. Criar botões de teclado CSS
-
-15. Estudar .ERB vs HAML : _No momento abandonado, apenas uma coisa mais para aprender, dominar os comandos do Rails primeiro_.
-
-16. Estudar [subdomínio dinâmico](http://railscasts.com/episodes/123-subdomains-revised?view=asciicast)
-
-17. Estudar como criar wordpress plugins : )Beeem pra frente._
-
-18. Estudar rails paths e manipulação de arquivos
-
-19. Estudar cloudnary para upload e hospedagem de .docx e .pdf: ProcStudio
-
-20. Adicionar Search Engine e descobrir como adicionar js no jekyll 
+5. Adicionar Search Engine e descobrir como adicionar js no jekyll 
