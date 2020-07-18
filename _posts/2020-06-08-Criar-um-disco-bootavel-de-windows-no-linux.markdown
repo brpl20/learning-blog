@@ -18,8 +18,6 @@ Acabei encontrando esse aplicativo para ajudar nesta tarefa, uma vez que o princ
 
 Para instalar siga o passo a passo, utilizei no meu linux e deu certo!
 
--> Passo a passo
-
 Depois busque a imagem, para facilitar coloque a versão no seu home folder com um nome fácil e sem espaços.
 
 Você também vai precisar desmontar a unidade que está trabalhando.
