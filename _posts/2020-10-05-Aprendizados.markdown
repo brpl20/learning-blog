@@ -1,0 +1,19 @@
+---
+title: Aprendizados
+layout: post
+tags: [aprendizados]
+---
+# Aprendizados em geral 
+
+## Regras de Programação 
+DRY 	DON'T REPEAT YOURSELF
+KISS 	KEEP IT SIMPLE, SILLY
+TDD		TEST DRIVEN DEVELOPMENT - TESTAR - TESTAR - TESTAR
+
+## Dicas Akita 
+1. ESTUDAR: ALGORITIMOS e ESTRUTURAS DE DADOS
+2. FOCO: DESLIGUE TUDO
+3. EXERCITE CÓDIGO _SEM_ OBJETIVOS
+4. NAO IMPORTA QUAL CURSO / LIVRO
+5. TREINE ! TREINE ! TREINE ! x COPY !	COPY ! COPY ! DO ! | DO ! | DO !
+
