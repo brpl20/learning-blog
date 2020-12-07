@@ -1,5 +1,5 @@
 ---
-title: Rails Journey - Criando um Site de Campanha Política Para Vereador
+title: Rails Journey - Criando um Site com Frontend Em Rails ** Inacabado **
 layout: post
 tags: [linux, grep, produtividade]
 ---
