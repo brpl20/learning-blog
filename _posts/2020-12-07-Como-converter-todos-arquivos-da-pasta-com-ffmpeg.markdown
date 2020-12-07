@@ -12,6 +12,6 @@ for i in *.MP4; do name=`echo "$i" | cut -d'.' -f1`
 done
 ```
 
-* Primeira Linha: para cada arquivo .MP4 (cuidado com o _case sensitive_) faça uma variável com o nome do arquivo. Depois de declarar essas variáveis ele concatena mais um comando com o pipe "&#124;|" recortando a extensão do arquivo com o comando cut.
+* Primeira Linha: para cada arquivo .MP4 (cuidado com o _case sensitive_) faça uma variável com o nome do arquivo. Depois de declarar essas variáveis ele concatena mais um comando com o pipe recortando a extensão do arquivo com o comando cut.
 * Segunda Linha: Apenas para printar a variável.
 * Terceira Linha: Comando do `ffmpeg` contendo como arquivo de origem o "i" que foi puxado com o looping da primeira linha, depois os demais comandos do ffmpeg e finalmente o mesmo nome declarado na variável + a extensão desejada.
