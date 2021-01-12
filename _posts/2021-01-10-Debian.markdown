@@ -1,5 +1,5 @@
 ---
-title: Como converter todos arquivos da pasta com FFMPEG
+title: Debian Init
 layout: post
 tags: [aprendizados, ffmpeg, linux]
 ---
