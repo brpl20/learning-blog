@@ -1,0 +1,22 @@
+---
+title: Como fazer o git status em todos seus repositórios?
+layout: post
+tags: [linux, git, automação]
+---
+_Para conseguir buscar em todos os repositórios é preciso uma série de comando de shell, para que ele faça um looping e busque os arquivos .git de forma recursiva. Ainda não dominei todos eles, mas preciso estudar cada um para saber exatamento o que está acontecendo:_
+
+```find . -name '.git' | while read -r repo ; do repo=${repo%".git"}; (git -C "$repo" status -s | grep -q -v "^\$" && echo -e "\n\033[1m${repo}\033[m" && git -C "$repo" status -s) || true; done```
+
+Para colocar no ```zshell``` configure o arquivo ```~/.zshrc``` com uma função, porque com alias simples não tem como em razão das variáveis e comandos que tem, vai ficar da seguinte forma:
+
+```gsall(){find . -name '.git' | while read -r repo ; do repo=${repo%".git"}; (git -C "$repo" status -s | grep -q -v "^\$" && echo -e "\n\033[1m${repo}\033[m" && git -C "$repo" status -s) || true; done}```
+
+Depois basta chamar o comando no terminal com ```gsall``` que foi o que eu escolhi, mas pode ser qualquer comando.
+
+Próximos Passos:
+
+- Criar um shudown com verificador de git status e não desligar se houver pendências;
+- Criar um verificar cronjob para verificar git pull;
+
+# Fonte
+[gist](https://gist.github.com/dbu/2843660)

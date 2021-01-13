@@ -1,7 +1,7 @@
 ---
 title: Debian Init
 layout: post
-tags: [aprendizados, ffmpeg, linux]
+tags: [linux, debian]
 ---
 # Configurando o Linux Debian Puro
 1. Configurar o teclado é mais difícil (usando o padrão internacional pra usar o ç e acentos normalmente), o que funcionou aqui foi Ingles (Eua, int. alt.);
