@@ -3,6 +3,20 @@ title: Quick
 layout: post
 ---
 
+<p class="mySpecialClass">My **second** paragraph</p>
+<div class="keys">
+  <div data-key='65' class='key__button'>A</div>
+  <div data-key='65' class='key__button'>S</div>
+  <div data-key='65' class='key__button'>D</div>
+  <div data-key='65' class='key__button'>F</div>
+  <div data-key='65' class='key__button'>G</div>
+  <div data-key='65' class='key__button'>H</div>
+  <div data-key='65' class='key__button'>J</div>
+  <div data-key='65' class='key__button'>K</div>
+</div>
+
+
+
 <a href="#ST">Sublime Text</a>
 
 <a href="#LNX">Linux</a>
