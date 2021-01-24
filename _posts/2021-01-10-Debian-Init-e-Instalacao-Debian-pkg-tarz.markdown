@@ -1,5 +1,5 @@
 ---
-title: Debian Init
+title: Debian Init e Instalacao Debian pkg tarz
 layout: post
 tags: [linux, debian]
 ---
@@ -52,3 +52,18 @@ sudo apt-get install -f
 
 ## [Snapcraft](https://snapcraft.io/)
 - Snap pode ajudar a instalar alguns aplicativos, mas é um pouco instável dependendo do aplicativo melhor ir na `store` do próprio debian ou instalar pelo .deb ou .tar.
+
+
+# Linux (em geral) Favorite app List - Criar Shell para baixa-los
+- Flameshot (Screenshot)
+- Wps Writer (Office)
+- F.Lux
+- Workrave
+- Spotify
+- VLC Player
+- Ferramentas Básicas: Curl
+- Ohmyzsh
+- Sublime Text
+- Nvim
+- Firefox
+- Chromium
