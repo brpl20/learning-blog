@@ -1,8 +1,37 @@
 ---
-title: Aprendizados Diversos
+title: Teste Keyboards KBD 
 layout: post
 tags: [linux]
 ---
 
+<style>
+    table {
+        border-collapse: collapse;
+        width: 80%;
+        margin: 50px auto;
+    }
+
+    table, th, td {
+        border: 1px solid black;
+    }
+
+    th, td {
+        padding: 15px;
+        text-align: left;
+    }
+
+    th {
+        background-color: #f2f2f2;
+    }
+
+    kbd {
+        padding: 2px 5px;
+        font-family: monospace;
+        border: 1px solid #aaa;
+        border-radius: 3px;
+        background-color: #f7f7f7;
+        box-shadow: inset 0 1px 0 #fff, 0 1px 0 #aaa;
+    }
+</style>
 
 <kbd>Ctrl</kbd>
