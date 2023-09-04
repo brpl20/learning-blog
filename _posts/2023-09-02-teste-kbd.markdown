@@ -34,6 +34,79 @@ tags: [linux]
     }
 </style>
 
+# Aprendendo - Fixação 
+
 | Atalho | Ação | 
 |-------|--------| 
 |<kbd>Ctrl</kbd>| Action | 
+
+# Comandos Básicos de Corte
+
+| Atalho | Labels | 
+|-------|--------| 
+|<kbd>c</kbd>| Razor Tool | 
+|<kbd>q</kbd>| Corte Total à Esquerda | 
+|<kbd>q</kbd>| Corte Total à Direita | 
+
+# Labels 
+
+| Atalho | Labels | 
+|-------|--------| 
+|<kbd>Shift</kbd> + <kbd>Command</kbd> + <kbd>1</kbd>| Labels | 
+|<kbd>Shift</kbd> + <kbd>Command</kbd> + <kbd>2</kbd>| Labels | 
+|<kbd>Shift</kbd> + <kbd>Command</kbd> + <kbd>3</kbd>| Labels | 
+|<kbd>Shift</kbd> + <kbd>Command</kbd> + <kbd>4</kbd>| Labels | 
+|<kbd>Shift</kbd> + <kbd>Command</kbd> + <kbd>5</kbd>| Labels | 
+|<kbd>Shift</kbd> + <kbd>Command</kbd> + <kbd>6</kbd>| Labels | 
+|<kbd>Shift</kbd> + <kbd>Command</kbd> + <kbd>7</kbd>| Labels | 
+|<kbd>Shift</kbd> + <kbd>Command</kbd> + <kbd>8</kbd>| Labels | 
+|<kbd>Shift</kbd> + <kbd>Command</kbd> + <kbd>9</kbd>| Labels |
+|<kbd>Ctrl</kbd> + <kbd>Command</kbd> + <kbd>1</kbd>| Labels | 
+|<kbd>Ctrl</kbd> + <kbd>Command</kbd> + <kbd>2</kbd>| Labels | 
+|<kbd>Ctrl</kbd> + <kbd>Command</kbd> + <kbd>3</kbd>| Labels | 
+|<kbd>Ctrl</kbd> + <kbd>Command</kbd> + <kbd>4</kbd>| Labels | 
+|<kbd>Ctrl</kbd> + <kbd>Command</kbd> + <kbd>5</kbd>| Labels | 
+|<kbd>Ctrl</kbd> + <kbd>Command</kbd> + <kbd>6</kbd>| Labels | 
+|<kbd>Ctrl</kbd> + <kbd>Command</kbd> + <kbd>7</kbd>| Labels | 
+|<kbd>Ctrl</kbd> + <kbd>Command</kbd> + <kbd>8</kbd>| Labels | 
+|<kbd>Ctrl</kbd> + <kbd>Command</kbd> + <kbd>9</kbd>| Labels | 
+
+# Labels Especiais 
+
+|<kbd>Ctrl</kbd> + <kbd>Command</kbd> + <kbd>+</kbd>| Amarelo (Zoom) | 
+
+# Audio 
+
+|<kbd>g</kbd>| Audio Gain | 
+|<kbd>Ctrl</kbd> + <kbd>Command</kbd> + <kbd>/</kbd>| Sync | 
+
+# To-Do
+
+1. Melhorar ZoomIn / ZoomOut Timeline 
+2. Dominar efeito de Zoom
+3. Melhorar Transições e Quantidade de Transições
+4. Dominar Overshoot (82% -> 80%) - Aula 4.4 (17:48)
+5. Praticar Bezier => https://bezier.method.ac/
+6. Estudar Blending Mode => https://helpx.adobe.com/br/premiere-pro/using/blending-modes.html
+
+# Configurações Gerais e Preferências
+
+- Deixar agulha sempre centralizada
+- Não retificar áudio (Rectified Audio Wave Forms)
+- Audio Format: Na Timeline -> Desmarcar => 
+- Media => Default Media Scaling => Set to Frame Size (Para Importar Mais Fácilmente)
+- Pesquisar => Audio Transitions
+- Pesquisar => htmx.org (melhorar esse manual)
+- New Timeline => Pixel Aspect Ratio: Square Pixel (1.0) - Formato da Internet
+- New Timeline => Fields: No Fields (Progressive Scan)
+- New Timeline => Previews: Quicktime
+- New Timeline => Previews: Apple Pro Res 422
+- New Timeline => Previews: Maximum Bit Depth
+- New Timeline => Previews: Maximum Render Quality
+- New Timeline => Previews: Composite in Linear Color
+- Restrict Trim => Para restringir limites dos clips/subclips (não dá para expandir com mouse)
+- Play Audio When Scrubling => ON/OFF (Qdo estiver arrastando - Scrubling)
+- Estudar: Cut in Action --- Match Cut
+- Preferences => Media => Default Media Scaling: Set to Frame Size
+- Praticar 
+- Mascaras => Pode Copiar e Colar
