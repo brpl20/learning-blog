@@ -34,4 +34,6 @@ tags: [linux]
     }
 </style>
 
-<kbd>Ctrl</kbd>
+| Atalho | Ação | 
+|-------|--------| 
+|<kbd>Ctrl</kbd>| Action | 
