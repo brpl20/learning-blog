@@ -27,7 +27,7 @@
 
         kbd {
             padding: 2px 5px;
-            font-family: monospace;
+            font-family: monospace;π
             border: 1px solid #aaa;
             border-radius: 3px;
             background-color: #f7f7f7;
@@ -190,8 +190,28 @@
           <li>Estudar Cut in Action --- Match Cut</li>
           <li>Melhorar Atalhos - Não depender do NumLock</li>
           <li>Atalhos : Transição Padrao</li>
+          <li>Estudar Plugins: </li>
+          <li>Plugins que eu uso pt. 01 https://www.youtube.com/watch?v=LhRD9p2bbIc</li>
+          <li>Plugins que eu uso pt. 02 https://www.youtube.com/watch?v=gfHXOimsY1M</li>
+          <li>Plugins que eu uso pt. 03 https://www.youtube.com/watch?v=6aleG73sgGQ</li>
+          <li>Site da Adobe Exchange com mais ferramentas: https://exchange.adobe.com/creativecloud.premiere-pro.html</li>
+          <li>Lista de Plugins do Adobe Premiere: https://helpx.adobe.com/br/premiere-pro/plug-ins.html</li>
+          <li>Melhorar Atuação => Replicar</li>
+          <li>Melhorar Roteirização => Scripts</li>
+          <li>Configurar Melhor Equipamentos de Áudio</li>
         </ul>
     </h3>
+</div>
+
+<div>
+    <h3>Aprendizados</h3>
+        <ul>
+            <li>A imagem estática nunca vai parecer um vídeo, você precisa adicionar um pouco de "noise" nela todo vídeo tem um pouco de noise</li>
+            <li>Use o crop effect para cortar vídeos</li>
+            <li>Você também pode redimensionar em 3d os vídeos (ex. vídeo passando na televisão)</li>
+            <li></li>
+            <li></li>
+        </ul>
 </div>
 
 
