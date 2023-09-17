@@ -27,7 +27,7 @@
 
         kbd {
             padding: 2px 5px;
-            font-family: monospace;
+            font-family: monospace;π
             border: 1px solid #aaa;
             border-radius: 3px;
             background-color: #f7f7f7;
@@ -37,10 +37,6 @@
 </head>
 <body>
 
-# Teste Mistura com HTML e MD 
-
-
-# Fim Teste 
 
 <h2 style="text-align:center;">Adobe Premiere Pro Keyboard Shortcuts</h2>
 
@@ -184,25 +180,50 @@
 
 
 <div> 
-    <h2>TODO
+    <h3>TODO
         <ul>
-          <li>Overshoot (Pequeno Retorno Na Animação) : Zoom de 80 -> 82% (+/- 3% de Diferença): Aula 4.4 (17:48)</li>
-          <li>Overshoot : Dá pra fazer nos gráficos também (Adicionar Pequeno Negativo antes do Final)</li>
-          <li></li>
-          <li></li>
+          <li>Testar Novos Efeitos de Som Dinâmicos - Audio Clips</li>
+          <li>Efeito de Reverberaçã de Som Para Encerrar Áudios</li>
+          <li>Testar Ferramentas de Colorimegria</li>
+          <li>Ideia Saindo Monitor TimeLine Trabalho de Edição</li>
+          <li>Melhorar Bezier (bezier game method)</li>
+          <li>Estudar Blending Modes https://helpx.adobe.com/br/premiere-pro/using/blending-modes.html</li>
+          <li>Estudar Rule of Six</li>
+          <li>Editar Light Leak com Cor Correspondente ao Vídeo</li>
+          <li>Estudar Cut in Action --- Match Cut</li>
+          <li>Melhorar Atalhos - Não depender do NumLock</li>
+          <li>Atalhos : Transição Padrao</li>
+          <li>Estudar Plugins: </li>
+          <li>Plugins que eu uso pt. 01 https://www.youtube.com/watch?v=LhRD9p2bbIc</li>
+          <li>Plugins que eu uso pt. 02 https://www.youtube.com/watch?v=gfHXOimsY1M</li>
+          <li>Plugins que eu uso pt. 03 https://www.youtube.com/watch?v=6aleG73sgGQ</li>
+          <li>Site da Adobe Exchange com mais ferramentas: https://exchange.adobe.com/creativecloud.premiere-pro.html</li>
+          <li>Lista de Plugins do Adobe Premiere: https://helpx.adobe.com/br/premiere-pro/plug-ins.html</li>
+          <li>Melhorar Atuação => Replicar</li>
+          <li>Melhorar Roteirização => Scripts</li>
+          <li>Configurar Melhor Equipamentos de Áudio</li>
         </ul>
-    </h2>
+    </h3>
+</div>
+
+<div>
+    <h3>Aprendizados</h3>
+        <ul>
+            <li>A imagem estática nunca vai parecer um vídeo, você precisa adicionar um pouco de "noise" nela todo vídeo tem um pouco de noise</li>
+            <li>Use o crop effect para cortar vídeos</li>
+            <li>Você também pode redimensionar em 3d os vídeos (ex. vídeo passando na televisão)</li>
+            <li></li>
+            <li></li>
+        </ul>
 </div>
 
 
 <div> 
-    <h2> Configurações
+    <h3> Configurações
         <ul>
           <li>Timeline com agulha no centro:</li>
           <li>Audio Format: Na Timeline -> Desmarcar => Rectified Audio Wave Forms</li>
           <li>Media => Default Media Scaling => Set to Frame Size (Para Importar Mais Fácilmente)</li>
-          <li>Pesquisar => Audio Transitions</li>
-          <li>Pesquisar => htmx.org (melhorar esse manual)</li>
           <li>New Timeline => Pixel Aspect Ratio: Square Pixel (1.0) - Formato da Internet</li>
           <li>New Timeline => Fields: No Fields (Progressive Scan)</li>
           <li>New Timeline => Previews: Quicktime</li>
@@ -212,18 +233,9 @@
           <li>New Timeline => Previews: Composite in Linear Color</li>
           <li>Restrict Trim => Para restringir limites dos clips/subclips (não dá para expandir com mouse)</li>
           <li>Play Audio When Scrubling => ON/OFF (Qdo estiver arrastando - Scrubling)</li>
-          <li>Estudar: Cut in Action --- Match Cut</li>
-          <li>Testar: Curte com Q/W e JKL</li>
-          <li>Testar: Desfazer corte com Delete</li>
           <li>Preferences => Media => Default Media Scaling: Set to Frame Size</li>
-          <li>Blending Mode => https://helpx.adobe.com/br/premiere-pro/using/blending-modes.html</li>
-          <li>Praticar => https://bezier.method.ac/</li>
-          <li>Mascaras => Pode Copiar e Colar</li>
-          <li>Mascaras => Pode Copiar e Colar</li>
-
-
         </ul>
-    </h2>
+    </h3>
 </div>
 
 
