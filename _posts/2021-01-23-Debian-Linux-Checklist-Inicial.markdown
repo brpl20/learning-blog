@@ -5,6 +5,9 @@ tags: [linux]
 ---
 Debian Checkslit
 
+# Fixes 
+- Dual Boot Time Linux Vs Windows => https://www.howtogeek.com/323390/how-to-fix-windows-and-linux-showing-different-times-when-dual-booting/#:~:text=By%20default%2C%20Windows%20assumes%20the,make%20Windows%20use%20UTC%20time
+
 # Linux
 - [] curl
 - [] ohmyshz + config
@@ -16,7 +19,7 @@ Debian Checkslit
 - [] ruby
 - [] ruby gems
 - [] rails
-- [] sublime text
+- [] sublime text / visual studio code 
 - [] nvim
 
 # Git
