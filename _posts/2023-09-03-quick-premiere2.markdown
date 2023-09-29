@@ -36,12 +36,6 @@
     </style>
 </head>
 <body>
-
-# Teste Mistura com HTML e MD 
-
-
-# Fim Teste 
-
 <h2 style="text-align:center;">Adobe Premiere Pro Keyboard Shortcuts</h2>
 
 <div> 
@@ -158,7 +152,7 @@
                 <td>Timeline => Marker</td>
             </tr>
             <tr>
-                <td><kbd>Q - W</kbd></td>
+                <td><kbd>Q</kbd> e <kbd>Shift</kbd> + <kbd>Q</kbd></td>
                 <td><= Top And Tail Editing =></td>
             </tr>
             <tr>
@@ -184,16 +178,31 @@
 
 
 <div> 
-    <h2>TODO
-        <ul>
-          <li>Overshoot (Pequeno Retorno Na Animação) : Zoom de 80 -> 82% (+/- 3% de Diferença): Aula 4.4 (17:48)</li>
-          <li>Overshoot : Dá pra fazer nos gráficos também (Adicionar Pequeno Negativo antes do Final)</li>
-          <li></li>
-          <li></li>
-        </ul>
-    </h2>
+    <h2>TODO</h2>
+    <ul>
+        <li>Overshoot (Pequeno Retorno Na Animação) : Zoom de 80 -> 82% (+/- 3% de Diferença): Aula 4.4 (17:48)</li>
+        <li>Overshoot : Dá pra fazer nos gráficos também (Adicionar Pequeno Negativo antes do Final)</li>
+        <li></li>
+        <li>1. Aprender: a) StoryTelling; b) Design; c) Áudio e Música; d) Psicologia (Vídeo para Humanos)</li>
+        <li>2. Dominar o Programa</li>
+        <li>3. Nuca terminamos a edição</li>
+        <li>4. Definir um tempo para cada tarefa na edição</li>
+        <li>5. Não esquecer dos checklists</li>
+    </ul>
 </div>
 
+<div>
+    <h2>Export</h2> 
+    <ul>
+        <li>Usar Checklist do Render</li>
+        <li>Audio - Sempre AAC 320</li>
+        <li>H264 => Formato da Internet</li>    
+        <li>Render At Max Depth => + Cores</li>    
+        <li>Use Max Render Quality</li>  
+        <li>Bit Rate => Máx. Mín --- Margem que ele irá trabalhar nas cores</li>    
+        <li>Usar CBR que é constante</li>
+        <li>Configuração ideal de BITRATE Min: 15 - Ideal: 25~45 - Super: 100+ (TV por exemplo)</li>    
+</div>
 
 <div> 
     <h2> Configurações
@@ -219,7 +228,9 @@
           <li>Blending Mode => https://helpx.adobe.com/br/premiere-pro/using/blending-modes.html</li>
           <li>Praticar => https://bezier.method.ac/</li>
           <li>Mascaras => Pode Copiar e Colar</li>
-          <li>Mascaras => Pode Copiar e Colar</li>
+          <li>Testar => SCENE DETECTION (Detectar cortes de vídeos para estudos)</li>
+          <li>Aula 17.4 => Efeitos de Áudio</li>
+
 
 
         </ul>
