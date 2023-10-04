@@ -130,7 +130,7 @@ Sempre parta para missões nos testes dos usuários:
 
 ### Oitavo Passo - Planilhar os Problemas 
 
-![img](https://lztforeferfiles.s3.us-west-2.amazonaws.com/mkt-gro-research-and-test-3 .png)
+![img](https://lztforeferfiles.s3.us-west-2.amazonaws.com/mkt-gro-research-and-test-3.png)
 
 Ver sistema PXL 
 
