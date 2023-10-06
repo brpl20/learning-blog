@@ -130,3 +130,106 @@ Subareas of PPC Campaigns
 - É o que une todos os aprendizados anterior
 - As pessoas querem saber mais do negócio através de artigos do que de propagandas 
 - É possível provar o ROI das campanhas sim
+
+### Daft Punk 
+- Controlaram todos os aspectos de sua arte de forma congruente
+
+### Different Scaping the Competitive Herd - Youngme Moon
+1. Offer something that is hard to come by
+2. Commit to a big idea
+3. Be intesely human
+4. True differentiation is a funciton of playing on strenghts
+
+### Purple Cow 
+1. Create remarkable products that the right people seek out
+2. Offering something a little bit cheaper/better/faster is a waste of time
+3. The leading brand has ahuge advantage over the others
+4. Being outrageous is not remarkable 
+
+### ZAG 
+1. Clutter is the ENEMY
+2. Successful *zags* test porrly with consumers before they're launched so companies ignore them 
+3. Your *zag* and company behavior must be aligned and coherent 
+4. If you're not zagging, you're lagging
+
+### Resourcces
+- Different Scaping the Competitive Herd
+- Purple Cow 
+- ZAG 
+- The 22 Immutable laws of marketing 
+- Hot Seat Group Coaching Sessions on Differentiation (YouTube)
+
+### 22 Laws 
+1. The Law of the Mind: be first in the mind 
+2. The Law of Sacrifice: give up something in order to get something
+3. The Law of Attributes: for every attribute, there is an opposite, effective attribute 
+
+### Resumo de todos esses livros (in short...)
+- Customer Perception + Obsession
+- Be First 
+- Sacrifice, Sacrifice, Sacrifice
+- Focus on one thing 
+- Zag when they Zig 
+- Things take time 
+
+### REMOVE ANYTHING THAT 
+1. Goes against your opinions and UNIQUE ability 
+2. Your minimum viable market finds clichés 
+3. Does NOT contribute to helping them achieve their goals and solve their pains 
+4. Alternative can do BETTER 
+
+> O QUE O MERCADO NÃO ESTÁ FALANDO!? 
+
+### CAREFULLY ADD ANYTHING THAT 
+1. Doubles Down your uniqueness
+2. Contributes to helping your minimum viable market achieve their goals and solve their pains
+3. Alternativas can't replicate 
+4. Annoys, offends, are too expensive, too ugly, risky, too cheap, too heavy, too complicated, too simples 
+5. Are generous, true 
+
+# Radical Difference - Message 
+> Your brain can't tell the difference between you having a real experience and you having a pretend experiência through a story - Susan Weinschenk 
+
+## Estrutura da História 
+- Character / Problem / Guide / Plan / Action / Failure / Sucess (SotryBrand - Donal Miller) 
+
+- Using Insights You've Collected to tell this history based on the audience you selected
+
+Search for the following Principles: 
+1. Radical Simplicity : Focus on ONE message; Miller's Laws: The number of 'bits' one can hold in their working memory is 5-9 items. This is a universal law observed in many studies. Use simple words to say complex things. Decide and COMMIT! **ONE FUCKING MESSAGE** 
+2. Radical Confidence : Bold edginess breeds confidence and authority. Share your OPINIONS! **Pratfall Effect:** Admit your flaws. **Social Proof:** don't assume your scale is known; PROVE IT! 
+3. Radical TRUTH: Stay on TRUTH; Don't lie to yourself or your market; Don't hide behind empty words; Lean onyour market for a gut check; 
+
+> Writing your Story 
+
+* A character in your minimum viable market
+* Wants to solve a pain, reach a iT goal, kill a monster
+* And meets your brand
+* Who gives them a plan
+* And calls them to action
+* That helps them to prevent staying in & pain or missing their 1 goal
+* And reach their 17 goal
+
+### Resources 
+- CLX product Messaging Course (Momoko PRice)
+- Building a StoryBoard (Donald Miller)
+- Value Proposition: What it is & How to Create One (podcast ep Momoko Price)
+- Turning Customer Feedback into Creative Copy (podcast ep Momoko Price)
+- 3 Steps to Write Copy That Converts (podcast ep Joanna Wiebe)
+
+--- 
+
+# The Jolt - Making your market notice you without being sleazy 
+1. Discover the two types of decisions people take and why they need to move away from their habits if you want to be noticed
+2. Learn how to jolt the people you seek to serve into action in one powerful, underutilized concept
+3. Find out the three principles behind a successful jolt that makes people notice you, trust you, and buy from you
+
+> Two parts of the brain (VALUE-based vs. HABIT-based) can't be active at the same time - Susan Weinschenk 
+
+## 5 MISTAKES
+1. Buildint it and thinking - They will come! 
+2. Thinking people should pay attention to you 
+3. Getting cold feet 
+4. Seeking too much feedback 
+5. Saying too much 
+
